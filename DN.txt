@@ -1,0 +1,126 @@
+Office Fundamentals
+1 Designing Webpages.
+Bạn đã được yêu cầu trình bày trước hiệp hội doanh nghiệp địa phương. Với thị trưởng chú trọng đổi mới vào tăng trưởng kinh tế địa phương, nhiều doanh nghiệp quan tâm đến việc thành lập
+sự hiện diện trên Web. Các chủ doanh nghiệp muốn biết thêm một chút về cách các trang web được thiết kế. Để chuẩn bị cho bản trình bày, bạn sẽ đọc lại và chỉnh sửa tệp PowerPqint của mình.
+Bạn quyết định chèn một hình ảnh để nâng cao bản trình bày của bạn. Tham khảo Hình 1.51 khi bạn hoàn thành tập thể dục.
+
+A. Tóm gọn mở file f01p1Design LastName
+B. Đảm bảo rằng Trang trình bày 1 được hiển thị, chọn văn bản FirstnameLastname và nhập tên đầu tiên và cuối cùng của riêng bạn
+những cái tên. Bấm vào vùng trống của trang chiếu để hủy lựa chọn.
+C. Nhấp vào tab Design, sau đó nhấp vào chủ đề Celestial trong nhóm Chủ đề để áp dụng nó cho tất cả các trang trình bày.
+D. Bấm vào tab Xem lại và bấm Chính tả trong nhóm Soát lỗi. Trong ngăn Chính tả, bấm thay đổi hoặc Bỏ qua để thực hiện các thay đổi khi cần thiết.
+Hầu hết các lỗi chính tả đã xác định nên được thay đổi.
+Các từ kompaZer và Nvu không bị sai chính tả, vì vậy bạn nên bỏ qua chúng khi chúng được gắn cờ. Bấm OK khi bạn đã kiểm tra xong chính tả.
+E. Bấm vào tab Trình chiếu. Bấm Từ From Beginning trượt để xem chương trình và nhấn Esc khi bạn đến trang chiếu cuối cùng,
+trang chiếu 6.
+F. Nhấp vào Silde 2 trong ngăn Trang trình bày ở bên trái. Bấm ba lần để chọn Khác
+trượt và nhấn Backspace trên bàn phím để xóa văn bản.
+G. Nhấp vào Slide 4 trong ngăn Trang trình bày. Bấm ba lần để chọn FrontPage, Nvu text và nhấn
+Backspace để xóa văn bản.
+H. Bấm vào tab Insert. Bấm Đầu header & footer trong nhóm Văn bản. Nhấp vào slider number
+để chọn nó và nhấp vào apply to AIl.
+J. Nhấp vào Slide 3 trong ngăn Trang trình bày. Nhấp vào tab Insert và nhấp vào ảnh trong nhóm Hình ảnh. Duyệt đến các tệp dữ liệu sinh viên, 
+định vị và chọn f01p1website, sau đó bấm Insert.
+K. Nhấp vào hộp chiều cao hình dạng trong nhóm Kích thước trên tab Định dạng Công cụ Hình ảnh. Nhập 4 và sau đó
+nhấn Enter.
+L. Nhấp vào Slide 6 trong ngăn Trang trình bày. Bấm vào tab insert, sau đó bấm Lưu trữ trong nhóm Bổ trợ 'Trong hộp tìm kiếm, hãy nhập nhiều cuộc thăm dò phản hồi.
+ Nhấn Enter. Phần bổ trợ sẽ thay đổi kích thước của cửa sổ hoặc độ phân giải nhỏ.
+M. nhấp vào Multiple Response PoII và sau đó nhấp vào Trust It để chèn nó vào trang trình bày.
+N. nhấp vào hộp văn bản Insert câu hỏi vào đây trong cửa sổ thăm dò ý kiến ​​và nhập Bạn có trang web không?
+O. Nhấp vào tùy chọn đầu tiên Chèn vào đây hộp văn bản và nhập Có. Nhấp vào tùy chọn thứ hai Chèn vào đây hộp văn bản và nhập Số xem trước crick vào
+P.nhấp vào tab FiIe và nhấp vào Print. nhấn vào các FuIl cuộc thăm dò ý kiến Trang cửa sổ.
+mũi tên trang trình bày và nhấp vào 6 bậc Ngang để xem bản xem trước của tất cả các trang trình bày dưới dạng tài liệu phát. Nhấp vào mũi tên Quay lại.
+Q. Nhấp vào Slide 1 trong ngăn Trang trình bày để chuyển đến phần đầu của bản trình bày.
+R. Kéo thanh trượt Thu phóng trên thanh trạng thái sang phải đến l3o% để phóng đại văn bản. Sử dụng thanh trượt Thu phóng để di chuyển đến 60%
+S. Lưu và đóng lile. Dựa trên chỉ dẫn của người hướng dẫn của bạn, hãy gửi f01p1Design LastFirst
+
+2.Upscale Bakery
+Bạn luôn thích làm bánh và đã làm việc trong lĩnh vực này được vài năm. bạn không
+có cơ hội cống hiến toàn bộ thời gian cho sự nghiệp của bạn với tư cách là Giám đốc điều hành của một công ty tận tâm
+để nướng bánh nướng nhỏ và bánh ngọt, và phục vụ ăn uống. Một trong những bước đầu tiên để đưa doanh nghiệp đi lên
+mặt bằng đang phát triển một kế hoạch kinh doanh để bạn có thể yêu cầu hỗ trợ tài chính..bạn sẽ sử dụng
+Lời để phát triển kế hoạch kinh doanh của bạn. Tham khảo Hình 1.52 khi bạn hoàn thành bài tập này.
+
+A. Mở flie f01p2Business_LastFirst.
+B. Nhấp vào tab Review và nhấp vào Spetting & Grammar trong nhóm Soát lỗi. Nhấp vào Change
+cho tất cả các đề xuất và sau đó bấm OK.
+C. Chọn các đoạn văn bắt đầu bằng Nhân viên của chúng tôi và kết thúc bằng (Nhân viên phụ trách). Nhấp vào Home
+và nhấp vào Cut trong nhóm Bảng tạm. Nhấp vào bên trái Producfs của chúng tôi và nhấp vào Paste.
+D. Chọn văn bản Tên của bạn trong gạch đầu dòng đầu tiên trong phần Nhân viên của chúng tôi và thay thế nó bằng
+Họ và tên đầu tiên. Chọn toàn bộ danh sách dấu đầu dòng, bấm vào mũi tên Kích thước Phông chữ và sau đó bấm 11.
+E. Bấm đúp vào Format Painter trong nhóm Bảng tạm trên tab Trang đầu. Kéo định dạng
+Con trỏ họa sĩ để thay đổi kích thước phông chữ khác của Our Staffbullets thành 11pt. Kéo qua tất cả bốn của chúng tôi
+Hộp sản phẩm. Bấm Format Painter để bỏ chọn nó.
+F. Nhấp vào hộp TeIl me what you want to ilo và nhập Footer. Nhấp vào Thêm cuộn chân trang đến
+Định vị chân trang Sidetine, nhấp để thêm nó vào trang. Bấm Đóng Đầu trang và Chân trang trên
+Tab Thiết kế Công cụ Đầu trang & Chân trang.
+G. Selectthelastlineinthedocument, whichsayslnsert andpositionpicturehere, andpressDelete.
+Bấm vào tab Insert và bấm Online Pictures trong nhóm Hình minh họa.
+. Bấm vào hộp Tìm kiếm Hình ảnh Bing, nhập Cupcakes, rồi nhấn Enter.
+. Chọn bất kỳ hình ảnh bánh cupcake nào và nhấp vào Chèn. Không bỏ chọn hình ảnh
+. Đảm bảo rằng tab Định dạng Công cụ Hình ảnh đang hoạt động và trong nhóm Kiểu Hình ảnh, hãy bấm vào Hình chữ nhật Cạnh mềm.
+. Nhấp vào hộp Chiều rộng hình dạng trong nhóm Kích thước và thay đổi chiều rộng thành 4.
+. Nhấp vào bên ngoài hình ảnh.
+H.Nhấp vào tab FiIe. Trong phần Thuộc tính, hãy thêm thẻ Business Plan. Thêm đầu tiên và cuối cùng của bạn
+tên cho thuộc tính Tác giả.
+I.Bấm In trong dạng xem Backstage. Thay đổi Lề bình thường thành Lề vừa phải. Nhấn vào
+Mũi tên quay lại.
+J. Nhấp vào hình ảnh và nhấp vào Trung tâm trong nhóm Đoạn văn trên tab Trang đầu.
+K. Lưu và đóng tập tin. Dựa trên chỉ dẫn của người hướng dẫn, hãy gửi f01p2Business LastFirst.
+
+  Mid-Level-Exercises
+1.Reference Letter
+Bạn là giảng viên tại một trường cao đẳng cộng đồng địa phương. Một sinh viên đã yêu cầu bạn cung cấp cho cô ấy tài liệu tham khảo để xin việc.
+Bạn đã sử dụng từ để chuẩn bị trong "l.ti" r, nhưng bây giờ bạn muốn thực hiện một vài thay đổi trước khi nó được hoàn thiện.
+
+A. mở file fi01mtRefletter_LastFirst.
+B. Chọn ngày và trỏ đến một số cỡ chữ trên thanh công cụ Mini toolbar. Sử dụng Xem trước trực tiếp để so sánh chúng. Nhấp vào 11
+C. thay đổi phần còn lại của chữ cái (uốn cong ngày) thành cỡ chữ 11.
+D. Bôi đậm tên của học sinh, Stacy VanPatten, trong câu đầu tiên.
+E. Tùy chỉnh Thanh công cụ Truy cập Nhanh để thêm nút Chính tả và Ngữ pháp.
+F. Sử dụng nút bạn vừa thêm để sửa tất cả các lỗi sử dụng Chính tả & Ngữ pháp. Họ của Stacy được viết đúng chính tả.
+G. Chọn từ thông minh trong đoạn thứ hai và sử dụng Từ đồng nghĩa để tìm một từ đồng nghĩa. Thay thế thông minh bằng năng khiếu.
+ Thay đổi từ an thành một ngay trước từ mới. Đóng lnesaurus.
+H. Thêm tham chiếu thẻ Ietter vào Thuộc tính cho tệp trong dạng xem Backstage.
+I. Di chuyển đoạn cuối cùng-bắt đầu theo ý kiến ​​của tôi-để định vị nó như đoạn văn thứ hai-bắt đầu bằng Stacy là một năng khiếu.
+J. Di chuyển điểm chèn đến đầu tài liệu.
+K. Thay đổi lề thành Thu hẹp.
+L. Xem trước tài liệu vì nó sẽ xuất hiện khi được in.
+M. Lưu và đóng tệp. Dựa trên chỉ dẫn của người hướng dẫn, hãy gửi f0lmlRefletter LastFirst.
+
+2.Medicat Monitoring
+Bạn đã đăng ký vào một chương trình học về Tin học Y tế, trong đó bạn học cách quản lý các cơ sở dữ liệu liên quan đến các lĩnh vực sức khỏe. 
+Đối với một dự án trên lớp, người hướng dẫn của bạn, .q.ri .., rằng bạn theo dõi huyết áp của mình, ghi lại kết quả của bạn trong một trang tính Excel.
+bạn đã ghi lại dữ liệu của tuần và bây giờ sẽ thực hiện một vài thay đổi trước khi in trang tính để gửi.
+
+A. mở file fo1m2Tracker_LastFirst.
+B. Xem trước trang tính vì nó sẽ xuất hiện khi được in. thay đổi hướng của trang tính thành Landscape. Đóng bản xem trước.
+C. Nhấp vào ô bên phải Tên và nhập họ và tên của bạn. nhấn Enter.
+D. thay đổi phông chữ của văn bản trong ô cl thành verdana. sử dụng Xem trước trực tiếp để thử một số kích thước phông chữ. Thay đổi kích thước phông chữ thành 2O.
+E. Thêm tính năng Chính tả và Ngữ pháp vào Thanh công cụ Truy nhập Nhanh, sau đó kiểm tra chính tả cho trang tính để đảm bảo rằng không có lỗi.
+F. Nhận trợ giúp về cách hiển thị vị trí thập phân. Bạn muốn tăng vị trí thập phân cho các giá trị trong ô 822, F22 vàG22 để mỗi giá trị hiển thị một vị trí ở bên phải của số thập phân. Chọn các ô và sau đó sử dụng Nói cho tôi biết những gì bạn muốn doboxt để áp dụng ngay lập tức
+Bạn có thể sử dụng Tăng số thập phân làm cụm từ tìm kiếm. khi bạn tìm thấy câu trả lời,các tăng những thay đổi. các chữ số thập phân đến l.
+G. bấm vào ô Al và chèn một Hình ảnh trực tuyến mà bạn chọn liên quan đến huyết áp. Thay đổi kích thước và '' 'định vị hình ảnh để nó hiển thị một cách hấp dẫn. Áp dụng hiệu ứng hình ảnh Soft Edges cho hình ảnh và đặt thành 5 pt.
+H. Thay đổi lề trang thành Rộng.
+I. Chèn chân trang với số trang ở giữa vùng chân trang của bảng tính. Bấm vào ô \ - trong trang tính.
+J. Thay đổi Chế độ xem thành Bình thường.
+K. Mở dạng xem Backstage và điều chỉnh cài đặt in để in hai bản sao. Bạn sẽ không thực sự in
+hai bản sao trừ khi có sự chỉ dẫn của người hướng dẫn của bạn.
+L. Lưu và đóng File. Dựa trên chỉ dẫn của người hướng dẫn, hãy gửi fO1m2Tracker LastFirst.
+
+3.Today's Musical Artists
+Với một số bạn cùng lớp, bạn sẽ sử dụng PowerPoint để tạo một bản trình bày duy nhất trên
+nghệ sĩ âm nhạc yêu thích. Mỗi học sinh phải tạo ít nhất một trang trình bày và sau đó tất cả các trang trình bày sẽ
+được thêm vào bản trình bày. Bởi vì lịch trình của mọi người là khác nhau, bạn sẽ sử dụng OneDrive của mình để
+chuyển tệp trình bày giữa các nhóm.
+
+A. Chỉ định một sinh viên tạo bản trình bày mới và lưu nó dưới dạng f01m3Music_GroupName.
+B. Thêm tên thành viên nhóm của bạn vào Thuộc tính tác giả trong dạng xem Backstage.
+C. Thêm chủ đề vào bản trình bày.
+d. Thêm một trang trình bày có chứa tên nghệ sĩ, thể loại và hai hoặc ba thông tin thú vị
+về nghệ sĩ.
+E. Chèn ảnh của nghệ sĩ hoặc clip art đại diện cho nghệ sĩ.
+F. Đặt tên của bạn trên trang chiếu mà bạn đã tạo. lưu bản trình bày.
+G. Chuyển bài thuyết trình cho sinh viên tiếp theo để họ có thể thực hiện các nhiệm vụ tương tự trong các Bước d-f và lưu bài thuyết trình trước khi chuyển cho học sinh tiếp theo. Tiếp tục cho đến khi tất cả nhóm
+các thành viên đã tạo một slide trong bài thuyết trình.
+H. Lưu và đóng tập tin. Dựa trên chỉ dẫn của người hướng dẫn, hãy gửi f0lm3Music_GroupName
